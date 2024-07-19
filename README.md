@@ -13,7 +13,7 @@ I'm a recent Computer Engineering graduate from Sarvajanik College of Engineerin
 - 💬 Ask me about web development, DSA, and anything tech-related.
 - 📫 How to reach me: [krishzala708@gmail.com](mailto:krishzala708@gmail.com)
 
-   ![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## Skills
 ![Languages](https://img.shields.io/badge/-Languages-black?style=flat-square&logo=github)
