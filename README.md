@@ -1,6 +1,6 @@
 # Hi there, I'm Krishnapal Zala 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krish-Na-Pal&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=KRISH-NA-PAL-zala&style=flat-square&color=blue)
 
 ## Important Note
 > **⚠️ This is my second GitHub account. My first account was closed due to some malicious activity. Please refer to this account for my latest work and contributions.**
