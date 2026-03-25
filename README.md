@@ -64,7 +64,7 @@ A real-time web application using Django, WebRTC, and Agora-API for chat and vid
 - Used Material UI for front-end views, ensuring users could view, write, edit, and delete content according to their permissions.
 
 ## Achievements
-- Solved 150+ problems on LeetCode in C++
+- Solved 200+ problems on LeetCode in C++
 - JEE 2020 AIR: 2449
 
 ## GitHub Stats
