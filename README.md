@@ -65,7 +65,7 @@ A real-time web application using Django, WebRTC, and Agora-API for chat and vid
 
 ## Achievements
 - Solved 200+ problems on LeetCode in C++
-- JEE 2020 AIR: 2449
+- JEE 2020 PR: 92.20
 
 ## GitHub Stats
 ![Krishnapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRISH-NA-PAL-zala&show_icons=true&theme=radical)
